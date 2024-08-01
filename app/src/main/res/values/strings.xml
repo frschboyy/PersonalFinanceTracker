@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Personal Finance Tracker</string>
+    <string-array name="expense_array">
+        <item />
+        <item>Groceries</item>
+        <item>Rent</item>
+        <item>Utilities</item>
+        <item>Transportation</item>
+        <item>Entertainment</item>
+        <item>Healthcare</item>
+        <item>Insurance</item>
+        <item>Clothing</item>
+        <item>Education</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="income_array">
+        <item />
+        <item>Salary</item>
+        <item>Freelance</item>
+        <item>Pocket Money</item>
+        <item>Betting</item>
+        <item>Investments</item>
+        <item>Gifts</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="null_array"/>
+</resources>
